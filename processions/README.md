@@ -38,24 +38,34 @@ These hushed, tranquil processions are unrealistic, for many reasons. Artists co
      </p>   
 
 ## Saint Mary of Carmen Procession                      
+<p>These artists weren't thinking about future archaeologists and their research questions. They created these scenes for other Greeks, and for the gods -- and they all knew what a processional environment was like. The Saint Mary of Carmen procession will help us imagine some of those missing sensory details.<p style="text-align: left;"><iframe style="float: right; width: 640 px; height: 480px;" src="https://www.google.com/maps/d/embed?mid=10zPJkjqhGCpB3bQN9Ohnu13euooShIE&ehbc=2E312F" width="700" height="100" frameborder="700" marginheight="700"></iframe></p>  
+<p>Around 12 PM, I arrived at Our Lady Help of Christians Church. Society members were getting ready for the procession. The first step was bringing the Saint Mary of Carmen statue out of the church's basement. They worked together, supporting the heavy statue down the steps and onto the sidewalk. </p>
 <br>
-These artists weren't thinking about future archaeologists and their research questions. They created these scenes for other Greeks, and for the gods -- and they all knew what a processional environment was like. The Saint Mary of Carmen procession will help us imagine some of those missing sensory details.
-<p style="text-align: left;"><iframe style="float: right; width: 640 px; height: 480px;" src="https://www.google.com/maps/d/embed?mid=10zPJkjqhGCpB3bQN9Ohnu13euooShIE&ehbc=2E312F" width="500" height="500" frameborder="500" marginheight="500"></iframe>
-<br/><br/>                                                                                                                                                   
-    Around 12 PM, I arrived at Our Lady Help of Christians Church. Society members were getting ready for the procession. The first step was bringing the Saint Mary of Carmen statue out of the church's basement. They worked together, supporting the heavy statue down the steps and onto the sidewalk; next to adorn her with money and prayer cards-necklaces. A small group of girls watched, alongside older relatives and friends. The girls excitedly compared their summer dresses and waved their carnations in the air. 
-    
-    
-<br/>
-<br/>
-Statue in-tow, this small group walked around to the rear parking lot. A comparatively larger, noisier crowd was already starting to assemble. There was a marching band, police escort, and some firemen carrying POW MIA flags. There were local political representatives and elected school officials wearing their swag and carrying signs. Relatives of society members –decked in red, green, and white “The Lake” gear – were cheerfully socializing, organizing, and setting up. Some of them climbed into the back of a pickup truck, rigged with a huge bell.
+<p>They adorn her with necklaces, strung with money and prayer cards; they put a crown on her head. A small group of girls watched, alongside older relatives and friends. The girls excitedly compared their summer dresses and waved their carnations in the air.</p>   
+<br>
+<p style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/nsusmann/media/main/SaintMaryCarmen/Statue.jpg" title="Saint Mary of Carmen Society setting up the statue" width="700"  />
+        </p>
+<br> 
+Statue in-tow, this small group walked around to the rear parking lot. A comparatively larger, noisier crowd was already starting to assemble. There was a marching band, police escort, and some firemen carrying POW MIA flags. There were local political representatives and elected school officials wearing their swag and carrying signs. Relatives of society members –decked in red, green, and white “The Lake” gear – were cheerfully socializing, organizing, and setting up. Some of them climbed into the back of a pickup truck, rigged with a bell.</p>
+<p style="text-align:center;">
+<img src="https://raw.githubusercontent.com/nsusmann/media/main/SaintMaryCarmen/BellTruck.jpg" title="Nonantum's Alderman bell" width="700"    />        
+</p>
+<br>
+I waited to hear someone call out instructions, but there were none. Suddenly, the music began, the bell began chiming, and the loud crowd began to walk. Certain groups – the band, the bell truck, the statue bearers – stuck together. Society members carrying donation buckets spread out. Everyone else in the procession – the campaigners, relatives, etc. – filled spaces in-between. It was emotive and festive – just like a Greek procession would be.
+&nbsp;&nbsp;
+<br><br>
+In these first few moments, it was easy to distinguish spectators from participants. The street was a like a stage, and spectators waved and cheered to us from the sidewalk. They were loud; the band and bells were louder.
+<br><br>
+<p float="center">
+    <img src="https://raw.githubusercontent.com/nsusmann/media/main/SaintMaryCarmen/Procession.jpg" title= "Saint Mary of Carmen procession" width="450"  />
+&nbsp; &nbsp;
+    <img src="https://raw.githubusercontent.com/nsusmann/media/main/SaintMaryCarmen/Tapestry.jpg" title="Saint Mary of Carmen procession, showing Society members" width="450" />
+<br><br>
+About 1/3 of the way down the street, I noticed a change. Speakers boomed from the sidewalks; complicated firecracker displays were lit in driveways. Spectators were everywhere: walking alongside the procession, on the sidewalk, and across lawns. There were no divisions separating spectators and participants. Spectators walked up to the Society members to donate money, snap photos, and take prayer cards. Society members hopped out of the procession to take breaks, accept food, or greet friends and family.
 <br/><br/>
-I waited to hear someone call out instructions, but there were none. Suddenly, the music began, the bell began chiming, and the loud crowd began to walk. Certain groups – the band, the bell truck, the statue bearers – stuck together. Society members carrying donation buckets spread out. Everyone else in the procession – the campaigners, relatives, etc. – filled spaces in-between. It was emotive and festive – everything we know a Greek procession could be. 
+Ancient Greek artists rarely showed spectators in processional imagery. The Parthenon frieze is one exception; a small group of elite-looking men lean on their walking sticks and casually watch the parade pass by.[^9] On the one hand, excluding spectators helped to reduce distractions and sharpened the image. On the other hand, further distanced these scenes from reality. Spectators were a critical part of the event. A massive crowd helped convey reverence to the god; they represented the community’s collective piety.[^14] 
 <br/><br/>
-Spectators are rarely shown in processional scenes. The Parthenon frieze is one exception; a small group of elite-looking men lean on their walking sticks and casually watch the parade pass by.[^9] On the one hand, excluding spectators helped to reduce distractions and sharpened the image. On the other hand, further distanced these scenes from reality. Spectators were a critical part of the event. A massive crowd helped convey reverence to the god; they represented the community’s collective piety.[^14] 
-<br/><br/>
-At the beginning of Nonantum’s procession, I could easily distinguish spectators versus participants. The street was a like a stage, and spectators waved and cheered to us from the sidewalk. They were loud; the band and bells were louder. 
-<br/><br/>
-About 1/3 of the way down the street, I noticed a change. Speakers boomed from the sidewalks; complicated firecracker displays were lit in driveways. Spectators were everywhere: walking alongside the procession, on the sidewalk, and across lawns. There were no divisions separating spectators and participants. Spectators walked up to the Society members to donate money, snap photos, and take prayer cards. Society members hopped out of the procession to take breaks, accept food, or greet friends and family. 
 
 ## Sensing the Procession
 
