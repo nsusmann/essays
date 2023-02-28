@@ -74,13 +74,13 @@ Nonantum challenges us to think about Greek processions, especially spectators, 
 The archaeological record separates spectators from participants, but we need to think: how did these boundaries blur? 
 <br>
 <br>
-[^1]: [Vlassopoulos 2015](https://worldcat.org/en/title/987423652), 262.
-[^2]: [Connelly 2007](https://worldcat.org/en/title/67728101), 167.
-[^3]: For example, local girls and boys marched in the Artemis procession at Ephesus, and families used this opportunity to make marriage alliances. Athens’ infamous Panathenaia showcased daughters from influential families, and together they carried their enormous handmade peplos for the Athena statue ([Price et al. 1999](https://worldcat.org/en/title/39679284), 30-33). If tied to a theater festival, processions included choregoi, the wealthy citizens who funded the competition ([Pedley 2005](https://worldcat.org/en/title/60188210), 79-80). In the case of the Eleusinian Mysteries, participation was limited to initiates of the cult. 
-[^4]: [Larson 2007](https://worldcat.org/en/title/71552224), 6-7
-[^5]: [Kubatzki 2018](https://worldcat.org/en/title/1046675090), 144; [Kavoulaki 1999](https://worldcat.org/en/title/39627597), 294-295
-[^6]: [Elvekrok and Gulbrandsøy 2022](https://worldcat.org/en/title/9553917420); [Skeates and Day 2019](https://worldcat.org/en/title/1126216387), 8; [Hamilakis 2015](https://worldcat.org/en/title/984279842), 125; [Nugent 2019](https://worldcat.org/en/title/1126216387), 110
-[^7]: Rennell 2012, 511; Warford 2019, 26; Ivanov and Stavrinoudis 2018; Kamenidou 2014
+[^1]: [Vlassopoulos 2015, 262](https://worldcat.org/en/title/987423652)
+[^2]: [Connelly 2007, 167](https://worldcat.org/en/title/67728101).
+[^3]: For example, local girls and boys marched in the Artemis procession at Ephesus, and families used this opportunity to make marriage alliances. Athens’ infamous Panathenaia showcased daughters from influential families, and together they carried their enormous handmade peplos for the Athena statue ([Price et al. 1999, 30-33](https://worldcat.org/en/title/39679284)). If tied to a theater festival, processions included choregoi, the wealthy citizens who funded the competition ([Pedley 2005, 79-80](https://worldcat.org/en/title/60188210)). In the case of the Eleusinian Mysteries, participation was limited to initiates of the cult
+[^4]: [Larson 2007, 6-7](https://worldcat.org/en/title/71552224)
+[^5]: [Kubatzki 2018, 144](https://worldcat.org/en/title/1046675090); [Kavoulaki 1999, 294-295](https://worldcat.org/en/title/39627597)
+[^6]: [Elvekrok and Gulbrandsøy 2022](https://worldcat.org/en/title/9553917420); [Skeates and Day 2019, 8](https://worldcat.org/en/title/1126216387); [Hamilakis 2015](https://worldcat.org/en/title/984279842), 125; [Nugent 2019, 110](https://worldcat.org/en/title/1126216387)
+[^7]: [Rennell 2012, 511](https://worldcat.org/en/title/817675534); Warford 2019, 26; Ivanov and Stavrinoudis 2018; Kamenidou 2014
 [^8]: Alano 2004, 147-150; Ferraiuolo
 [^9]: I observed the Festa over the course of several days in July 2019, including setup/take down days. Following the festa, I circulated an anonymous online survey targeting attendees/participants (from any year) aged 18+.  I interviewed four St Mary of Carmen Society Members (either via phone or Zoom). Their identities will remain anonymous.This research was approved by the Institutional Review Board at the College of the Holy Cross in Worcester, Massachusetts. 
 [^10]: Jenkins 2007, 43
