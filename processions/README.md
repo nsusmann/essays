@@ -36,7 +36,7 @@ figcaption {
  
 .half-width 
 { 
-    width:          48%; // or 49% 
+    width:          40%; // or 49% 
 }
     }
     </style>
@@ -48,7 +48,7 @@ figcaption {
     </figure> 
     <figure class = "half-width"> 
         <img alt = "Pitsa Panel no. 1, c. 540 - 530 BCE" src = "https://upload.wikimedia.org/wikipedia/commons/b/b6/Greekreligion-animalsacrifice-corinth-6C-BCE.jpg" width="700" /> 
-        <figcaption>Boeotian Kantharos c. 6th - 5th c BCE.</figcaption> 
+        <figcaption>Pitsa Panel no. 1, c. 540 - 530 BCE.</figcaption> 
     </figure> 
 </div> 
 </p>
@@ -59,7 +59,6 @@ figcaption {
   background-color: 
   color: black;
   font-style: italic;
-    width: 400;
         class: center;
     }
 img {
