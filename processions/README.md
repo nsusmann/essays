@@ -20,13 +20,59 @@ We’re going to focus primarily on the procession, logically dedicated to Saint
 <br>
 Try and immerse yourself into the processional scenes below. Think about specific sensory experiences you might encounter, based on the different objects, people, animals, and scenery:
 <br>
-<p float="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Kantharos_with_sacrificial_procession%2C_AM_Nafplio%2C_Naum36.jpg" title= "Boeotian Kantharos c. 6th - 5th c BCE" width="500"  />
-&nbsp; &nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Greekreligion-animalsacrifice-corinth-6C-BCE.jpg" title="Pitsa Panel no. 1, c. 540 - 530 BCE" width="400" />
+<style>
+figcaption {
+  background-color: 
+  color: black;
+  font-style: italic;
+    width: 400;
+    }
+    .two-images 
+{ 
+    display:            flex; 
+    flex-flow:          row nowrap; 
+    justify-content:    space-between;  
+} 
+ 
+.half-width 
+{ 
+    width:          48%; // or 49% 
+}
+    }
+    </style>
+<div class = "two-images"> 
+    <figure class = "half-width"> 
+        <img alt = "Boeotian Kantharos c. 6th - 5th c BCE"
+             src = "https://upload.wikimedia.org/wikipedia/commons/5/5a/Kantharos_with_sacrificial_procession%2C_AM_Nafplio%2C_Naum36.jpg" width="400" /> 
+        <figcaption>Boeotian Kantharos c. 6th - 5th c BCE.</figcaption> 
+    </figure> 
+    <figure class = "half-width"> 
+        <img alt = "Pitsa Panel no. 1, c. 540 - 530 BCE" src = "https://upload.wikimedia.org/wikipedia/commons/b/b6/Greekreligion-animalsacrifice-corinth-6C-BCE.jpg" width="700" /> 
+        <figcaption>Boeotian Kantharos c. 6th - 5th c BCE.</figcaption> 
+    </figure> 
+</div> 
+</p>
 <br><br>
-    <center><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Peplos_scene_BM_EastV_cropped.JPG" title="'Peplos Scene' from East Parthenon Frieze, c. 447 - 433 BCE" width="500"  /></center>
-    </p>
+<div> 
+    <style>
+        figcaption {
+  background-color: 
+  color: black;
+  font-style: italic;
+    width: 400;
+        class: center;
+    }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+           class: center;
+}
+</style>
+<figure>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Peplos_scene_BM_EastV_cropped.JPG" alt= "Peplos Scene' from East Parthenon Frieze, c. 447 - 433 BCE" width="500" class="center"  </img>
+    <figcaption>'Peplos Scene' from East Parthenon Frieze, c. 447 - 433 BCE</figcaption></figure>
+    </div>
 <br><br>
 The processions appear calm and quiet. There are no musicians, no crowds, no noisy activity along the street. Watching the procession pass by, spectators could easily pick out different groups of people. Specific people had specific jobs, and they walk alongside their peers. Even the animals seem peaceful and unbothered -- except for this one bull.
 <br><br>        
@@ -38,7 +84,7 @@ These hushed, tranquil processions are unrealistic, for many reasons. Artists co
      </p>   
 <br>
 ## Saint Mary of Carmen Procession                      
-<p>These artists weren't thinking about future archaeologists and their research questions. They created these scenes for other Greeks, and for the gods -- and they all knew what a processional environment was like. The Saint Mary of Carmen procession will help us imagine some of those missing sensory details.<p style="text-align: left;"><iframe style="float: right; width: 640 px; height: 480px;" src="https://www.google.com/maps/d/embed?mid=10zPJkjqhGCpB3bQN9Ohnu13euooShIE&ehbc=2E312F" width="700" height="100" frameborder="700" marginheight="700"></iframe></p>  
+<p>These artists weren't thinking about future archaeologists and their research questions. They created these scenes for other Greeks, and for the gods -- and they all knew what a processional environment was like. The Saint Mary of Carmen procession will help us imagine some of those missing sensory details.<p style="text-align: left;"><iframe style="float: right; width: 640 px; height: 480px;" src="https://www.google.com/maps/d/embed?mid=10zPJkjqhGCpB3bQN9Ohnu13euooShIE&ehbc=2E312F" width="700" height="100" frameborder="700" marginheight="700"></iframe></p><br>  
 <p>Around 12 PM, I arrived at Our Lady Help of Christians Church. Society members were getting ready for the procession. The first step was bringing the Saint Mary of Carmen statue out of the church's basement. They worked together, supporting the heavy statue down the steps and onto the sidewalk. </p>
 <br>
 <p>They adorn her with necklaces, strung with money and prayer cards; they put a crown on her head. A small group of girls watched, alongside older relatives and friends. The girls excitedly compared their summer dresses and waved their carnations in the air.</p>   
@@ -75,20 +121,20 @@ The archaeological record separates spectators from participants, but we need to
 <br>
 <br>
 [^1]: [Vlassopoulos 2015, 262](https://worldcat.org/en/title/987423652)
-[^2]: [Connelly 2007, 167](https://worldcat.org/en/title/67728101).
+[^2]: [Connelly 2007, 167](https://worldcat.org/en/title/67728101)
 [^3]: For example, local girls and boys marched in the Artemis procession at Ephesus, and families used this opportunity to make marriage alliances. Athens’ infamous Panathenaia showcased daughters from influential families, and together they carried their enormous handmade peplos for the Athena statue ([Price et al. 1999, 30-33](https://worldcat.org/en/title/39679284)). If tied to a theater festival, processions included choregoi, the wealthy citizens who funded the competition ([Pedley 2005, 79-80](https://worldcat.org/en/title/60188210)). In the case of the Eleusinian Mysteries, participation was limited to initiates of the cult
 [^4]: [Larson 2007, 6-7](https://worldcat.org/en/title/71552224)
 [^5]: [Kubatzki 2018, 144](https://worldcat.org/en/title/1046675090); [Kavoulaki 1999, 294-295](https://worldcat.org/en/title/39627597)
-[^6]: [Elvekrok and Gulbrandsøy 2022](https://worldcat.org/en/title/9553917420); [Skeates and Day 2019, 8](https://worldcat.org/en/title/1126216387); [Hamilakis 2015](https://worldcat.org/en/title/984279842), 125; [Nugent 2019, 110](https://worldcat.org/en/title/1126216387)
-[^7]: [Rennell 2012, 511](https://worldcat.org/en/title/817675534); Warford 2019, 26; Ivanov and Stavrinoudis 2018; Kamenidou 2014
-[^8]: Alano 2004, 147-150; Ferraiuolo
-[^9]: I observed the Festa over the course of several days in July 2019, including setup/take down days. Following the festa, I circulated an anonymous online survey targeting attendees/participants (from any year) aged 18+.  I interviewed four St Mary of Carmen Society Members (either via phone or Zoom). Their identities will remain anonymous.This research was approved by the Institutional Review Board at the College of the Holy Cross in Worcester, Massachusetts. 
-[^10]: Jenkins 2007, 43
-[^11]: Connelly 2007, 170; Smith 2021, 130
-[^12]: Kubatzki 2018a, 140
-[^13]: Jenkins 2007, 43
-[^14]: Warford 2019, 26; Kubatzki 2018b, 135
+[^6]: [Elvekrok and Gulbrandsøy 2022](https://worldcat.org/en/title/9553917420); [Skeates and Day 2019, 8](https://worldcat.org/en/title/1126216387); [Hamilakis 2015, 125](https://worldcat.org/en/title/984279842); [Nugent 2019, 110](https://worldcat.org/en/title/1126216387)
+[^7]: [Rennell 2012, 511](https://worldcat.org/en/title/817675534); [Warford 2019, 26](https://worldcat.org/en/title/1113875159); [Ivanov and Stavrinoudis 2018](https://worldcat.org/en/title/7353800583); [Kamenidou 2015](https://worldcat.org/en/title/5738138424)
+[^8]: [Alano 2004, 147-150](https://worldcat.org/en/title/5543311686); [Ferraiuolo 2006](https://worldcat.org/en/title/5548251915); [Ferraiuolo 2009](https://worldcat.org/en/title/298467758)
+[^9]: I observed the Festa over the course of several days in July 2019, including setup/take down days. Following the festa, I circulated an anonymous online survey targeting attendees/participants (from any year) aged 18+. I interviewed four St Mary of Carmen Society Members (either via phone or Zoom). Their identities will remain anonymous. This research was approved by the Institutional Review Board at the College of the Holy Cross in Worcester, Massachusetts. 
+[^10]: [Jenkins 2007, 43](https://worldcat.org/en/title/123767321)
+[^11]: [Connelly 2007, 170](https://worldcat.org/en/title/67728101); [Smith 2021, 130](https://worldcat.org/en/title/1199329446)
+[^12]: [Kubatzki 2018, 140](https://worldcat.org/en/title/1046675090)
+[^13]: [Jenkins 2007, 43](https://worldcat.org/en/title/123767321)
+[^14]:  [Warford 2019, 26](https://worldcat.org/en/title/1113875159); [Kubatzki 2018, 135(https://worldcat.org/en/title/1046675090)
+<br>
 
 ### About the Author
-
-### Bibliography
+Natalie Susmann, PhD is the Digital Literacy Librarian at Brandeis University, where she develops large scale campus programs for improving digital literacy research and teaching. Broadly speaking, Natalie is interested in using digital technology as a vehicle for redefining traditional academic career trajectories. Before coming to Brandeis, Natalie held faculty positions at the Massachusetts Institute of Technology (MIT), Clark University, and the College of the Holy Cross, where she taught undergraduate courses in digital Greek archaeology and history. Natalie earned her PhD in 2019 from Boston University's Department of Archaeology, where she studied on Greek landscape archaeology. She is currently working on her book, *Sanctuaries on High: Seeing, Moving, and Remembering Mountains in Ancient Greece*. She uses geospatial technology, 3D modeling, and textual analysis to uncover how ancient worshipers were physically impacted by mountainous landscapes. She integrates ethnographic and phenomenological techniques into her workflows, as well as global case studies about mountain-based worship. Through her publications, she advocates for open access datasets, transparent workflows, and increased collaborations between extra and intra-Mediterranean archaeologists. 
