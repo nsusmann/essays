@@ -9,7 +9,7 @@ Ancient Greeks often displayed their piety via performance: creating and maintai
 
 This narrative is based on different types of evidence. Archaeological evidence is a bit tricky. Religious processions were in-motion, short-term events, so we can't excavate them. Luckily, ==ancient Greek artists=={Q1747618} captured processional scenes on pottery, ==sculptural friezes=={Q3087894}, and painted plaques. There's also the different votive objects and remains of sacrifice, excavated from different sanctuaries -- but it's difficult to know whether they were deposited after a procession. [Ancient authors](https://www.perseus.tufts.edu/hopper/definitionlookup?type=begin&q=procession&lang=greek) described processions in detail: we hear about colorful fabric, huge crowds, musicians, and food.[^5] But, these authors were mostly elite men, and they do not accurately represent everyone in attendance. 
 
-Without a wide range of perspectives represented, it is difficult to address sensory impact, and whether participants (those walking in the procession) and spectators (those watching) experienced the procession differently.[^6] To address these questions, ==archaeologists can draw comparisons with the modern world=={Q7181384}.[^7] We’re going to look at a religious procession in Nonantum, Massachusetts.   
+Without a wide range of perspectives represented, it is difficult to address sensory impact, and whether participants (those walking in the procession) and spectators (those watching) experienced the procession differently.[^6] To address these questions, ==archaeologists can draw comparisons with the modern world=={Q7181384}.[^7] We’re going to look at a religious procession in Nonantum, Massachusetts. 
 
 ## 'Reading' Ancient Processional Scenes
 <br>
