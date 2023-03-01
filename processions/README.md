@@ -1,20 +1,7 @@
-.header (
-    .header-image {
-background-image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Greekreligion-animalsacrifice-corinth-6C-BCE.jpg"
-background-position: center;
-background-repeat: no-repeat;
-position: relative;
-background-size: cover;
-}}
-
-<div id=header></div>
-
-<h1><center><class>Sensing Ancient Greek Processions<class><center></h1>
-    <br><br>
-    <h4><center>Written by <a href="https://www.researchgate.net/profile/Natalie-Susmann">Natalie M. Susmann, PhD</a> <br>Brandeis University</clas></center></h4>
-       <center></h1>
-    <br><br>
- </div>  
+<br>
+<h1><center>Sensing Ancient Greek Processions<center></h1>
+ <br><br>
+<h4><center>Written by <a href="https://www.researchgate.net/profile/Natalie-Susmann">Natalie M. Susmann, PhD</a> <br><br>Brandeis University</center></h4>
 
 ## Ancient Greek Processions
 
