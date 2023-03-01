@@ -1,22 +1,20 @@
-<style>
-.banner {
-   position: relative;
-   height: 400px;
-   z-index: 1;
-   border-style: solid;
-   border-width: 1px;
-   border-color: gray;
-   background-image:url('https://upload.wikimedia.org/wikipedia/commons/b/b6/Greekreligion-animalsacrifice-corinth-6C-BCE.jpg');
-   background-size: 100%;
-}
-</style>
-<div class="banner">
-           <br><br><br><br><br>
-  <div>
-<h1><center><font color="black" style="bold">Sensing Ancient Greek Processions</font></center></h1>
-<h4><center><font color="black" style="bold">Written by <a href="https://www.researchgate.net/profile/Natalie-Susmann">Natalie M. Susmann, PhD</a> <br>Brandeis University</font></center></h5>
-      </div>  
-</div>
+.header (
+    .header-image {
+background-image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Greekreligion-animalsacrifice-corinth-6C-BCE.jpg"
+background-position: center;
+background-repeat: no-repeat;
+position: relative;
+background-size: cover;
+}}
+
+<div id=header></div>
+
+<h1><center><class>Sensing Ancient Greek Processions<class><center></h1>
+    <br><br>
+    <h4><center>Written by <a href="https://www.researchgate.net/profile/Natalie-Susmann">Natalie M. Susmann, PhD</a> <br>Brandeis University</clas></center></h4>
+       <center></h1>
+    <br><br>
+ </div>  
 
 ## Ancient Greek Processions
 
@@ -85,7 +83,7 @@ img {
     <a href="https://www.parthenonfrieze.gr/en/explore-the-frieze/east-frieze/?b=5"><figcaption>'Peplos Scene' (East V) from the Parthenon Frieze, c. 447 - 433 BCE</figcaption></figure></center></a>
     </div>
 <br><br>
-The processions appear calm and quiet. There are no musicians, no crowds, no noisy activity along the street. Watching the procession pass by, spectators could easily pick out different groups of people. Specific people had specific jobs, and they walk alongside their peers. Even the animals seem peaceful and unbothered ... except for this suspicious-looking bull:
+These processions seem calm and quiet. We don't see any musicians; there are no noisy crowds watching from the street. The participants are clearly organized, and everyone has a specific task to perform. Even the sacrificial animals look peaceful and unbothered ... except for this one suspicious-looking bull:
 
 <div> 
     <style>
@@ -106,9 +104,9 @@ img {
     </div>
 <br><br>
 
-Were ancient Greek processions actually quiet, tranquil events? Likely not. This is religious *art* and artists could suspend reality.
+Remember -- artists have creative freedom and can suspend reality. These scenes are not telling us the whole story.
 
-Artists thought about their viewers: how they would look at and use this art. Pottery painters, for example, could create processional imagery that was for a specific festival. Or, they could make a generic, nondescript processional scene.[^11] Artists had certain tricks to grab the viewer's attention and help them notice certain parts of the scene. Processional art might show fewer participants or even exclude whole groups of people. Sizes of people, objects, and deities expanded or contracted to convey their importance.[^10] Artists also negotiated with new technology and trends. For example, the new ==red figure pottery style=={Q633683} appeared around 530 B.C.E., and it was all about intricacy. Religious pottery painting shifted: instead of processional scenes, artists showed [a few people sacrificing around an altar](https://raw.githubusercontent.com/nsusmann/media/main/Pothos/Red_Figure_Crater_by_Pothos.jpg).[^12] 
+Artists thought about how ancient Greeks would use this art. Pottery painters, for example, could create processional imagery that was for a specific festival. Or, they could make a generic, nondescript processional scene.[^11] Artists had certain tricks to grab the viewer's attention and help them notice certain parts of the scene. Processional scenes might show fewer participants or even exclude whole groups of people. Sizes of people, objects, and deities expanded or contracted to convey their importance.[^10] Artists also negotiated with new technology and trends. For example, the new ==red figure pottery style=={Q633683} appeared around 530 B.C.E., and it was all about intricacy. Religious pottery painting shifted: instead of processional scenes, artists showed [a few people sacrificing around an altar](https://raw.githubusercontent.com/nsusmann/media/main/Pothos/Red_Figure_Crater_by_Pothos.jpg).[^12] 
      </p>   
 ## Saint Mary of Carmen Procession                      
 <p>These artists weren't thinking about future archaeologists and their research questions. They created these scenes for other Greeks, and for the gods -- and they all knew what a processional environment was like. This is why the Saint Mary of Carmen procession is useful. Observing this live procession, we can begin to understand what sensory data is missing from the archaeological record. 
